@@ -1,1 +1,1 @@
-# maven_java_tutorial
+# jenkins_pipeline_sample
